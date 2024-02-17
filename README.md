@@ -14,7 +14,11 @@ pip install -r requirements.txt
 ```
 ## App Core
 
-To utilize this app, you can drag and drop your file into the designated area or use the browse button to access your file.
+To utilize this app, run:
+```python
+streamlit run main.py
+```
+you can drag and drop your file into the designated area or use the browse button to access your file.
 
 Initially, the app displays a header of the data, including column names and some sample entries. Following this, it presents a series of Select and Text Input boxes.
 
