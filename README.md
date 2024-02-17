@@ -1,6 +1,9 @@
 # Automation-of-Data-Visualization
 
 This web application, created with Streamlit, offers a range of features designed to enhance data visualization and plotting. It aids in a deeper understanding of various aspects of your data.
+<p align="center">
+  <img src="./img/previw.PNG" width = "800" height = "800">
+</p>
 
 * [Requirements](#requirements)
 * [App Core](#app-code)
