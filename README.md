@@ -2,7 +2,7 @@
 
 This web application, created with Streamlit, offers a range of features designed to enhance data visualization and plotting. It aids in a deeper understanding of various aspects of your data.
 <p align="center">
-  <img src="https://github.com/oussama-hammami/Automation-of-data-visualization//img/previw.PNG" width = "600" height = "600">
+  <img src="https://github.com/oussama-hammami/Automation-of-data-visualization/blob/main/img/previw.png" width = "800" height = "400">
 </p>
 
 * [Requirements](#requirements)
